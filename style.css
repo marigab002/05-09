@@ -1,0 +1,28 @@
+*{
+margin: 0%;
+padding: 0%;
+ box-sizing:border-box;
+
+}
+body {
+background-color: hsl(314, 51%, 92%);
+}
+form{
+    background-color: white;
+width: 40vw;
+height: 50vh;
+border-radius: 1em;
+padding: 1.5em;
+}
+.Formulario {
+    display: flex;
+    justify-content: ;
+    align-items: center;
+    margin: 10em;
+}
+.camponome{
+    display: flex;
+}
+h1{ 
+    margin: 1em;
+}
